@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+
+# Compiled Python files
+*.pyc
+
+# SQLite database files
+*.sqlite3
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Node.js dependencies (future use)
+node_modules/
